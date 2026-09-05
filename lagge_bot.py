@@ -52,7 +52,7 @@ async def laggeipcall_command(update: Update, context: ContextTypes.DEFAULT_TYPE
         await update.message.reply_text("Lütfen bir IP adresi girin. Örnek: /laggeipcall 212.115.7.108")
 
 def main():
-    TOKEN = "8927427712:AAEFaIt5V_nXyFe_S"
+    TOKEN = "8927427721:AAEFaIt5V_nXyFe_Seobqpt42GrxYQQs_iY"
     
     app = ApplicationBuilder().token(TOKEN).build()
 
